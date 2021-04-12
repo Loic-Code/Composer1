@@ -25,24 +25,33 @@ class InstalledVersions
 private static $installed = array (
   'root' => 
   array (
-    'pretty_version' => '1.0.0+no-version-set',
-    'version' => '1.0.0.0',
+    'pretty_version' => 'dev-main',
+    'version' => 'dev-main',
     'aliases' => 
     array (
     ),
-    'reference' => NULL,
+    'reference' => 'd01a75326edb79d1078bf8899b3f8e653a6315d0',
     'name' => 'loic/quete_composer',
   ),
   'versions' => 
   array (
-    'loic/quete_composer' => 
+    'ehime/hello-world' => 
     array (
-      'pretty_version' => '1.0.0+no-version-set',
-      'version' => '1.0.0.0',
+      'pretty_version' => '1.0.5',
+      'version' => '1.0.5.0',
       'aliases' => 
       array (
       ),
-      'reference' => NULL,
+      'reference' => 'b1c8cdd2c11272d8c5deec7816e51fa5374217c1',
+    ),
+    'loic/quete_composer' => 
+    array (
+      'pretty_version' => 'dev-main',
+      'version' => 'dev-main',
+      'aliases' => 
+      array (
+      ),
+      'reference' => 'd01a75326edb79d1078bf8899b3f8e653a6315d0',
     ),
     'symfony/polyfill-ctype' => 
     array (
