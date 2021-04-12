@@ -1,0 +1,10 @@
+{
+    "name": "loic/quete_composer",
+    "description": "projet quete composer",
+    "require": {
+        "twig/twig": "^3.3"
+    },
+    "autoload": {
+        "psr-4" : {"Wcs\\" : "src/"}
+    }
+}
